@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2996913e-4168-425e-8a2d-016335f004c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Z84wQAqU5ffVpVZlbmDZEMtOpS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="objsets.Main" />
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetSetSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="objsets" />
+      <option name="MAIN_CLASS_NAME" value="objsets.TweetSetSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetSetSuite.descending$colon$u0020set5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="objsets" />
+      <option name="MAIN_CLASS_NAME" value="objsets.TweetSetSuite" />
+      <option name="METHOD_NAME" value="descending$colon$u0020set5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetSetSuite.filter$colon$u0020a$u0020on$u0020set5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="objsets" />
+      <option name="MAIN_CLASS_NAME" value="objsets.TweetSetSuite" />
+      <option name="METHOD_NAME" value="filter$colon$u0020a$u0020on$u0020set5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetSetSuite.union$colon$u0020set4c$u0020and$u0020set4d" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="objsets" />
+      <option name="MAIN_CLASS_NAME" value="objsets.TweetSetSuite" />
+      <option name="METHOD_NAME" value="union$colon$u0020set4c$u0020and$u0020set4d" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TweetSetSuite" />
+        <item itemvalue="JUnit.TweetSetSuite.descending$colon$u0020set5" />
+        <item itemvalue="JUnit.TweetSetSuite.filter$colon$u0020a$u0020on$u0020set5" />
+        <item itemvalue="JUnit.TweetSetSuite.union$colon$u0020set4c$u0020and$u0020set4d" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-objsets" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="objsets [file:/Users/davidrussell/Downloads/objsets/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun1-objsets-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9429505476000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1371009884" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="598648594" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2649409897" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2662701361" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../recfun" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2996913e-4168-425e-8a2d-016335f004c6" name="Default Changelist" comment="" />
+      <created>1584207624929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584207624929</updated>
+      <workItem from="1584207628302" duration="4694000" />
+      <workItem from="1584212446600" duration="4601000" />
+      <workItem from="1584373192492" duration="38000" />
+      <workItem from="1584373397933" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1558" height="328" key="GridCell.Tab.0.bottom" timestamp="1584217272723">
+      <screen x="0" y="23" width="1920" height="984" />
+    </state>
+    <state width="1878" height="265" key="GridCell.Tab.0.bottom/0.23.1600.877/1600.23.1920.984@1600.23.1920.984" timestamp="1584212680247" />
+    <state width="1558" height="328" key="GridCell.Tab.0.bottom/1920.23.1600.877/0.23.1920.984@0.23.1920.984" timestamp="1584217272723" />
+    <state width="1558" height="328" key="GridCell.Tab.0.center" timestamp="1584217272723">
+      <screen x="0" y="23" width="1920" height="984" />
+    </state>
+    <state width="1878" height="265" key="GridCell.Tab.0.center/0.23.1600.877/1600.23.1920.984@1600.23.1920.984" timestamp="1584212680246" />
+    <state width="1558" height="328" key="GridCell.Tab.0.center/1920.23.1600.877/0.23.1920.984@0.23.1920.984" timestamp="1584217272723" />
+    <state width="1558" height="328" key="GridCell.Tab.0.left" timestamp="1584217272723">
+      <screen x="0" y="23" width="1920" height="984" />
+    </state>
+    <state width="1878" height="265" key="GridCell.Tab.0.left/0.23.1600.877/1600.23.1920.984@1600.23.1920.984" timestamp="1584212680245" />
+    <state width="1558" height="328" key="GridCell.Tab.0.left/1920.23.1600.877/0.23.1920.984@0.23.1920.984" timestamp="1584217272723" />
+    <state width="1558" height="328" key="GridCell.Tab.0.right" timestamp="1584217272723">
+      <screen x="0" y="23" width="1920" height="984" />
+    </state>
+    <state width="1878" height="265" key="GridCell.Tab.0.right/0.23.1600.877/1600.23.1920.984@1600.23.1920.984" timestamp="1584212680246" />
+    <state width="1558" height="328" key="GridCell.Tab.0.right/1920.23.1600.877/0.23.1920.984@0.23.1920.984" timestamp="1584217272723" />
+    <state width="1558" height="328" key="GridCell.Tab.1.bottom" timestamp="1584217272724">
+      <screen x="0" y="23" width="1920" height="984" />
+    </state>
+    <state width="1558" height="328" key="GridCell.Tab.1.bottom/1920.23.1600.877/0.23.1920.984@0.23.1920.984" timestamp="1584217272724" />
+    <state width="1558" height="328" key="GridCell.Tab.1.center" timestamp="1584217272724">
+      <screen x="0" y="23" width="1920" height="984" />
+    </state>
+    <state width="1558" height="328" key="GridCell.Tab.1.center/1920.23.1600.877/0.23.1920.984@0.23.1920.984" timestamp="1584217272724" />
+    <state width="1558" height="328" key="GridCell.Tab.1.left" timestamp="1584217272724">
+      <screen x="0" y="23" width="1920" height="984" />
+    </state>
+    <state width="1558" height="328" key="GridCell.Tab.1.left/1920.23.1600.877/0.23.1920.984@0.23.1920.984" timestamp="1584217272724" />
+    <state width="1558" height="328" key="GridCell.Tab.1.right" timestamp="1584217272724">
+      <screen x="0" y="23" width="1920" height="984" />
+    </state>
+    <state width="1558" height="328" key="GridCell.Tab.1.right/1920.23.1600.877/0.23.1920.984@0.23.1920.984" timestamp="1584217272724" />
+    <state x="2253" y="324" key="com.intellij.ide.util.TipDialog" timestamp="1584212451255">
+      <screen x="1600" y="23" width="1920" height="984" />
+    </state>
+    <state x="2253" y="346" key="com.intellij.ide.util.TipDialog/0.23.1600.814/1600.23.1920.1057@1600.23.1920.1057" timestamp="1584207630251" />
+    <state x="2253" y="324" key="com.intellij.ide.util.TipDialog/0.23.1600.877/1600.23.1920.984@1600.23.1920.984" timestamp="1584212451255" />
+    <state x="2225" y="239" width="670" height="676" key="search.everywhere.popup" timestamp="1584211772737">
+      <screen x="1600" y="23" width="1920" height="984" />
+    </state>
+    <state x="2225" y="239" width="670" height="676" key="search.everywhere.popup/0.23.1600.877/1600.23.1920.984@1600.23.1920.984" timestamp="1584211772737" />
+  </component>
+</project>

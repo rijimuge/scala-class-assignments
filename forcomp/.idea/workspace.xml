@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="957fb685-d6d3-41e8-beae-223c4e83d19f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZUzmsMRLSlcktZ5oi5xWAPhgFs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunManager">
+    <configuration name="All in progfun1-forcomp" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="progfun1-forcomp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-forcomp" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="forcomp [file:/Users/davidrussell/Downloads/forcomp/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun1-forcomp-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="2158534996" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="598648594" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2649409897" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2662701361" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../recfun" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="957fb685-d6d3-41e8-beae-223c4e83d19f" name="Default Changelist" comment="" />
+      <created>1584908622612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584908622612</updated>
+      <workItem from="1584908623767" duration="3244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1920" height="340" key="GridCell.Tab.0.bottom" timestamp="1584911875586">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="340" key="GridCell.Tab.0.bottom/-1600.161.1600.877/0.23.1920.1057@0.23.1920.1057" timestamp="1584911875586" />
+    <state width="1920" height="340" key="GridCell.Tab.0.center" timestamp="1584911875585">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="340" key="GridCell.Tab.0.center/-1600.161.1600.877/0.23.1920.1057@0.23.1920.1057" timestamp="1584911875585" />
+    <state width="1920" height="340" key="GridCell.Tab.0.left" timestamp="1584911875585">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="340" key="GridCell.Tab.0.left/-1600.161.1600.877/0.23.1920.1057@0.23.1920.1057" timestamp="1584911875585" />
+    <state width="1920" height="340" key="GridCell.Tab.0.right" timestamp="1584911875586">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="340" key="GridCell.Tab.0.right/-1600.161.1600.877/0.23.1920.1057@0.23.1920.1057" timestamp="1584911875586" />
+  </component>
+</project>

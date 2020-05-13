@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79283cd9-79bf-42b7-99d7-c686a9185b24" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZBeWVxhSA7XbmCRCFSNexLrOlX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunManager" selected="JUnit.HuffmanSuite.decode$u0020and$u0020encode$u0020a$u0020very$u0020short$u0020text$u0020should$u0020be$u0020identity$u0020$u002810pts$u0029">
+    <configuration name="HuffmanSuite.chars$u0020of$u0020a$u0020larger$u0020tree$u0020$u002810pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-patmat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patmat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="patmat" />
+      <option name="MAIN_CLASS_NAME" value="patmat.HuffmanSuite" />
+      <option name="METHOD_NAME" value="chars$u0020of$u0020a$u0020larger$u0020tree$u0020$u002810pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffmanSuite.combine$u0020of$u0020some$u0020leaf$u0020list$u0020$u002815pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-patmat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patmat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="patmat" />
+      <option name="MAIN_CLASS_NAME" value="patmat.HuffmanSuite" />
+      <option name="METHOD_NAME" value="combine$u0020of$u0020some$u0020leaf$u0020list$u0020$u002815pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffmanSuite.decode$u0020and$u0020encode$u0020a$u0020very$u0020short$u0020text$u0020should$u0020be$u0020identity$u0020$u002810pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-patmat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patmat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="patmat" />
+      <option name="MAIN_CLASS_NAME" value="patmat.HuffmanSuite" />
+      <option name="METHOD_NAME" value="decode$u0020and$u0020encode$u0020a$u0020very$u0020short$u0020text$u0020should$u0020be$u0020identity$u0020$u002810pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffmanSuite.make$u0020ordered$u0020leaf$u0020list$u0020for$u0020some$u0020frequency$u0020table$u0020$u002815pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-patmat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patmat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="patmat" />
+      <option name="MAIN_CLASS_NAME" value="patmat.HuffmanSuite" />
+      <option name="METHOD_NAME" value="make$u0020ordered$u0020leaf$u0020list$u0020for$u0020some$u0020frequency$u0020table$u0020$u002815pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffmanSuite.string2chars$u0020hello$u0020world" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-patmat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patmat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="patmat" />
+      <option name="MAIN_CLASS_NAME" value="patmat.HuffmanSuite" />
+      <option name="METHOD_NAME" value="string2chars$u0020hello$u0020world" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HuffmanSuite.decode$u0020and$u0020encode$u0020a$u0020very$u0020short$u0020text$u0020should$u0020be$u0020identity$u0020$u002810pts$u0029" />
+        <item itemvalue="JUnit.HuffmanSuite.chars$u0020of$u0020a$u0020larger$u0020tree$u0020$u002810pts$u0029" />
+        <item itemvalue="JUnit.HuffmanSuite.combine$u0020of$u0020some$u0020leaf$u0020list$u0020$u002815pts$u0029" />
+        <item itemvalue="JUnit.HuffmanSuite.make$u0020ordered$u0020leaf$u0020list$u0020for$u0020some$u0020frequency$u0020table$u0020$u002815pts$u0029" />
+        <item itemvalue="JUnit.HuffmanSuite.string2chars$u0020hello$u0020world" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-patmat" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="patmat [file:/Users/davidrussell/Downloads/patmat/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun1-patmat-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9429505476000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2903817043" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="598648594" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2649409897" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2662701361" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../recfun" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79283cd9-79bf-42b7-99d7-c686a9185b24" name="Default Changelist" comment="" />
+      <created>1584316946672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584316946672</updated>
+      <workItem from="1584316948485" duration="6231000" />
+      <workItem from="1584366172940" duration="15553000" />
+      <workItem from="1584908496350" duration="83000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1720" height="777" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584397237209">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="100" y="123" width="1720" height="777" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-1600.161.1600.877/0.23.1920.977@0.23.1920.977" timestamp="1584397237209" />
+    <state width="1920" height="269" key="GridCell.Tab.0.bottom" timestamp="1584908578478">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="269" key="GridCell.Tab.0.bottom/-1600.161.1600.877/0.23.1920.1057@0.23.1920.1057" timestamp="1584908578478" />
+    <state width="1878" height="325" key="GridCell.Tab.0.bottom/-1600.161.1600.877/0.23.1920.977@0.23.1920.977" timestamp="1584398038420" />
+    <state width="1920" height="269" key="GridCell.Tab.0.center" timestamp="1584908578478">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="269" key="GridCell.Tab.0.center/-1600.161.1600.877/0.23.1920.1057@0.23.1920.1057" timestamp="1584908578478" />
+    <state width="1878" height="325" key="GridCell.Tab.0.center/-1600.161.1600.877/0.23.1920.977@0.23.1920.977" timestamp="1584398038419" />
+    <state width="1920" height="269" key="GridCell.Tab.0.left" timestamp="1584908578477">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="269" key="GridCell.Tab.0.left/-1600.161.1600.877/0.23.1920.1057@0.23.1920.1057" timestamp="1584908578477" />
+    <state width="1878" height="325" key="GridCell.Tab.0.left/-1600.161.1600.877/0.23.1920.977@0.23.1920.977" timestamp="1584398038419" />
+    <state width="1920" height="269" key="GridCell.Tab.0.right" timestamp="1584908578478">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="269" key="GridCell.Tab.0.right/-1600.161.1600.877/0.23.1920.1057@0.23.1920.1057" timestamp="1584908578478" />
+    <state width="1878" height="325" key="GridCell.Tab.0.right/-1600.161.1600.877/0.23.1920.977@0.23.1920.977" timestamp="1584398038420" />
+    <state width="1878" height="325" key="GridCell.Tab.1.bottom" timestamp="1584398038421">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1878" height="325" key="GridCell.Tab.1.bottom/-1600.161.1600.877/0.23.1920.977@0.23.1920.977" timestamp="1584398038421" />
+    <state width="1878" height="325" key="GridCell.Tab.1.center" timestamp="1584398038421">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1878" height="325" key="GridCell.Tab.1.center/-1600.161.1600.877/0.23.1920.977@0.23.1920.977" timestamp="1584398038421" />
+    <state width="1878" height="325" key="GridCell.Tab.1.left" timestamp="1584398038420">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1878" height="325" key="GridCell.Tab.1.left/-1600.161.1600.877/0.23.1920.977@0.23.1920.977" timestamp="1584398038420" />
+    <state width="1878" height="325" key="GridCell.Tab.1.right" timestamp="1584398038421">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1878" height="325" key="GridCell.Tab.1.right/-1600.161.1600.877/0.23.1920.977@0.23.1920.977" timestamp="1584398038421" />
+    <state x="565" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584366179604">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="565" y="344" key="com.intellij.ide.util.TipDialog/-1600.161.1600.877/0.23.1920.977@0.23.1920.977" timestamp="1584366179604" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala</url>
+          <line>42</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
